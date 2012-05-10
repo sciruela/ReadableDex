@@ -1,4 +1,4 @@
-I have used *DEDEXER tool to read the binary code of Android (Dex files).
+I have used *DEDEXER tool to read the binary code of Android (Dex files) on the fly and on-device.
 
 *http://dedexer.sourceforge.net/
 
